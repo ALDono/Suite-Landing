@@ -435,7 +435,7 @@ li{
   .hero{
     width:1110px;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     gap: 1em;
   }
 
